@@ -1,7 +1,7 @@
 {
-  "name": "@kagenoureal/baileys",
+  "name": "@beltahtech/baileys",
   "version": "1.3.0",
-  "description": "WhatsApp API - Full Modif by Kagenou | No Limit, No Rules, Full Control!",
+  "description": "WhatsApp API - Full Modif by Beltah | No Limit, No Rules, Full Control!",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,10 +12,10 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/kagenouReal/Baileys",
+  "homepage": "https://github.com/Beltahinfo/Baileys",
  "repository": {
   "type": "git",
-  "url": "https://github.com/kagenoureal/baileys.git"
+  "url": "https://github.com/beltainfo/baileys.git"
 },
   "license": "MIT",
   "author": "JustKagenou",
